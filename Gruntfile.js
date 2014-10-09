@@ -49,6 +49,7 @@ module.exports = function(grunt) {
         usebanner: configs.banner(paths, customBuildDest),
         version: configs.version(pkg),
         watch: configs.watch(paths),
+        umd: configs.umd(paths),
         custom: {
             options: {
                 dest: customBuildDest

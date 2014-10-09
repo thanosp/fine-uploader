@@ -73,7 +73,8 @@
     "semver": "2.0.x",
     "underscore": "1.5.2",
     "uuid": "1.4.1",
-    "grunt-jscs": "^0.7.1"
+    "grunt-jscs": "^0.7.1",
+    "grunt-umd": "^2.0.1"
   },
   "license": "GPLv3"
 }
